@@ -20,7 +20,7 @@
 
 
 /* Transition Effects */
-nav#gameLinks {
+nav#gameLinks a {
    position: relative;
    color: white;
    transition: color 0.5s;
