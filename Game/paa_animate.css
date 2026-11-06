@@ -49,6 +49,7 @@ nav#gameLinks a:hover::after {
 }
 
 /* Sprite Styles */
+/*
 div.sprite {
    position: absolute;
 }
@@ -88,10 +89,11 @@ div#fox {
    background-size: cover;
    animation: playSprite 3.5s steps(27) 4s infinite;
 }
-
+*/
 
 
 /* Animation Styles */
+/*
 @keyframes playSprite {
    100% {
       background-position: right center;
@@ -116,3 +118,4 @@ div#fox {
       left: 100%;
    }
 }
+*/
