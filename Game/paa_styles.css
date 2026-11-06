@@ -33,18 +33,6 @@ body {
 }
 
 /* Header Styles */
-/* Nav Styles from animate.css*/
-nav#gameLinks {
-   position: relative;
-   color: white;
-   transition: color 0.5s;
-}
-
-nav#gameLinks a:hover {
-   color: rgb(255, 194, 99);
-}
-
-
 
 /* Company Links list styles */
 
